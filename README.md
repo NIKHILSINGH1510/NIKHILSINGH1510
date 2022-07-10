@@ -18,7 +18,7 @@
 ✔ I’m currently learning **Django** & **Django RestFramework**<br>
 ✔ I'm quite good at **C++**, **Python**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I use to write code on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
+✔ I use to write code on [leetcode](https://leetcode.com/ns1510/) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIKHILSINGH1510&show_icons=true&locale=en&layout=compact" alt="NIKHIL" /></p>
