@@ -17,8 +17,7 @@
 ✔ Pronouns: **He/His** or **TeamMaker**😉 <br>
 ✔ I’m currently Developing **My Portfolio** <br>
 ✔ I’m currently learning **Django** & **Django RestFramework**<br>
-✔ I'm quite good at **C++**, **Python**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
+✔ I have worked on  **C++**, **Python**<br>
 ✔ I use to write code on [leetcode](https://leetcode.com/ns1510/),[geeksforgeeks](https://auth.geeksforgeeks.org/user/nikhilsingh1510/profile)and [codechef](https://www.codechef.com/users/sarkaar)<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 
